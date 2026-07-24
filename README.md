@@ -55,21 +55,13 @@ https://www.youtube.com/results?search_query=football+match+broadcast+4k
 
 ---
 
-# Installation
-
-Clone the repository:
-
-git clone <repo-url>
-
-cd <repo-folder>
-
-Install dependencies:
-
+## Installation
+git clone https://github.com/05-sahil/Football-Match-Intelligence.git
+cd Football-Match-Intelligence
 pip install -r requirements.txt
 
-Run any project:
-
-python main.py
+## Run
+python "Football Match Intelligence.py" your_video.mp4
 
 ---
 
