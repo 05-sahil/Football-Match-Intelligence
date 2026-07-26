@@ -54,7 +54,8 @@ https://www.youtube.com/results?search_query=football+match+broadcast+4k
 * Artificial Intelligence
 
 ---
-
+## Demo Video
+[Watch the annotated output video](PASTE_LINK_HERE)
 ## Installation
 git clone https://github.com/05-sahil/Football-Match-Intelligence.git
 cd Football-Match-Intelligence
